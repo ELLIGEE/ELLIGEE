@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m looking for a working of developer 
-- 🌱 I’m currently learning HTML, CSS AND JAVASCRIPT
+- 🌱 I’m currently learning JAVA.
 - 😄 Pronouns: JAUM
 
 <div align="center">
