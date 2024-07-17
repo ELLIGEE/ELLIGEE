@@ -1,10 +1,8 @@
 ### Oi meu chapa!!👋
 
 
+.
 
-- 🔭 I’m looking for a working of developer 
-- 🌱 I’m currently learning JAVA.
-- 😄 Pronouns: JAUM
 
 <div align="center">
   <a href="https://github.com/ELLIGEE">
