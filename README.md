@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Guilherme BR
+# 👩🏻‍💻 João Guilherme
 
 **`Front-End Developer`**
 
