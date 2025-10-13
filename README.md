@@ -2,22 +2,26 @@
 
 **`Front-End Developer`**
 
-|ENGLISH|
+|EN-ENGLISH|
 
-Mid-level UX/UI Designer with 2.5 years in UX Research and 1.5 years as a Front-End Developer (React, TypeScript). Skilled in identifying user needs, translating insights into intuitive solutions, and building accessible, responsive interfaces.
+Mid-level UX/UI Designer with 2.5 years of experience in UX Research and 1.5 years as a Junior Front-End Developer (React, TypeScript). Strong background in identifying user needs, translating insights into intuitive solutions, and developing accessible, responsive interfaces.
 
-Experienced in freelance UI projects, designing visually engaging and functional interfaces aligned with Design Systems, usability, and accessibility best practices. My Front-End background ensures smooth collaboration with development teams, delivering consistent and user-centered digital products.
+Currently, I work at Simpress (an HP company in Brazil), performing continuous maintenance and front-end improvements for internal systems. Recently, I contributed to the redesign and structural revamp of the company’s internal e-commerce, helping deliver a more modern, efficient experience aligned with the new corporate Design System.
 
-Proactive, results-driven, and passionate about creating digital experiences that connect people and businesses. I’m seeking opportunities in tech companies or startups with a strong customer focus, where I can apply and expand my expertise in UX/UI, Front-End, Design Thinking, and Accessibility.
+I also have hands-on experience with freelance UI projects, designing interfaces based on best practices in usability, accessibility, and visual consistency. My technical background in front-end development ensures a smooth integration between design and implementation, resulting in cohesive and functional digital products.
 
-Designer UX/UI Mid com 2,5 anos em UX Research e 1,5 ano como Desenvolvedor Front-End (React, TypeScript). Experiência em identificar necessidades do usuário, traduzir insights em soluções intuitivas e desenvolver interfaces acessíveis e responsivas.
+I’m proactive, results-driven, and passionate about creating digital experiences that connect people and businesses. I’m seeking opportunities in client-focused tech companies or startups where I can apply and expand my skills in UX/UI Design, Front-End Development, Design Thinking, and Accessibility.
+📩 Available for remote or hybrid positions.
 
-Atuei em projetos freelancers de UI, criando interfaces alinhadas a Design Systems e melhores práticas de usabilidade e acessibilidade. Minha vivência como Front-End garante integração entre design e desenvolvimento, assegurando produtos digitais consistentes e funcionais.
+(PT-BR)
+Designer UX/UI Mid com 2,5 anos de experiência em UX Research e 1,5 ano como Desenvolvedor Front-End (React, TypeScript) Júnior. Experiência sólida em identificar necessidades do usuário, traduzir insights em soluções intuitivas e desenvolver interfaces acessíveis e responsivas.
 
-Proativo, orientado a resultados e apaixonado por melhorar experiências digitais que conectam pessoas e negócios. Busco oportunidades em empresas ou startups de tecnologia focadas no cliente, onde possa aplicar e expandir minhas competências em UX/UI, Front-End, Design Thinking e Acessibilidade.
+Atualmente, atuo na Simpress (companhia HP no Brasil) realizando manutenções e melhorias contínuas no front-end dos sistemas internos. Recentemente, participei do redesign e da reestruturação do e-commerce interno da empresa, contribuindo para uma experiência mais moderna, eficiente e alinhada ao novo Design System corporativo.
 
-📩 Disponível para vagas remotas e hibridas.
+Também possuo vivência em projetos freelancers de UI, criando interfaces alinhadas às melhores práticas de usabilidade, acessibilidade e consistência visual. Minha experiência técnica como Front-End garante uma integração fluida entre design e desenvolvimento, assegurando produtos digitais coerentes e funcionais.
 
+Sou proativo, orientado a resultados e apaixonado por criar experiências digitais que conectam pessoas e negócios. Busco oportunidades em empresas ou startups de tecnologia focadas no cliente, onde possa aplicar e expandir minhas competências em UX/UI, Front-End, Design Thinking e Acessibilidade.
+📩 Disponível para vagas remotas ou híbridas.
 ---
 
 ### 🤖 Linguagens e Tecnologias
