@@ -19,9 +19,6 @@ Designer UX/UI Mid com 2,5 anos de experiência em UX Research e 1,5 ano como De
 Atualmente, atuo na Simpress (companhia HP no Brasil) realizando manutenções e melhorias contínuas no front-end dos sistemas internos. Recentemente, participei do redesign e da reestruturação do e-commerce interno da empresa, contribuindo para uma experiência mais moderna, eficiente e alinhada ao novo Design System corporativo.
 
 Também possuo vivência em projetos freelancers de UI, criando interfaces alinhadas às melhores práticas de usabilidade, acessibilidade e consistência visual. Minha experiência técnica como Front-End garante uma integração fluida entre design e desenvolvimento, assegurando produtos digitais coerentes e funcionais.
-
-Sou proativo, orientado a resultados e apaixonado por criar experiências digitais que conectam pessoas e negócios. Busco oportunidades em empresas ou startups de tecnologia focadas no cliente, onde possa aplicar e expandir minhas competências em UX/UI, Front-End, Design Thinking e Acessibilidade.
-📩 Disponível para vagas remotas ou híbridas.
 ---
 
 ### 🤖 Linguagens e Tecnologias
