@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Guilherme
+# 👩🏻‍💻 João Guilherme David
 
 **`Front-End Developer`**
 
