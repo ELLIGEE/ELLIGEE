@@ -24,7 +24,7 @@ All projects follow **WCAG 2.2 AA**, semantic HTML, ARIA labels and full keyboar
 | **TabNews Clone**          | Full-stack Reddit/HackerNews with SSR, auth and voting          | Next.js 14, TypeScript, Prisma, PostgreSQL, Tailwind | [tabnews-elligee.vercel.app](https://tabnews-elligee.vercel.app) | [→ repo](https://github.com/ELLIGEE/tabnews)          |
 | **GDASH Challenge**        | Modern financial admin dashboard (technical challenge)          | React, TypeScript, Recharts, Shadcn/ui  | [gdash-elligee.netlify.app](https://gdash-elligee.netlify.app)   | [→ repo](https://github.com/ELLIGEE/gdash-desafio)    |
 | **Notes App (Full-Stack)** | Real-time collaborative rich-text notes with dark mode          | Next.js, TypeScript, Lexical, Tailwind  | [notes-elligee.vercel.app](https://notes-elligee.vercel.app)     | [→ repo](https://github.com/ELLIGEE/notes-app)        |
-| **Simpress Internal Platform** | Enterprise redesign for 2,000+ employees (IBM partner)       | React, TypeScript, Material UI, Jest    | Case study on portfolio                    | Private                                        |
+| **Simpress Internal Platform** | Enterprise redesign for 2,000+ employees (HP partner)       | React, TypeScript, Material UI, Jest    | Case study on portfolio                    | Private                                        |
 
 → Full case studies & more projects: [joao-guilherme-portfolio.netlify.app](https://joao-guilherme-portfolio.netlify.app)
 
@@ -39,7 +39,7 @@ All projects follow **WCAG 2.2 AA**, semantic HTML, ARIA labels and full keyboar
 ### 📫 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdavidd/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://joao-guilherme-portfolio.netlify.app)
-joaoguilherme.dev@gmail.com
+joaoguilherme.@hotmail.com
 
 Open to full-time opportunities in Ireland from September 2026 (Stamp 1G eligible after MSc HCI at UCD).
 
