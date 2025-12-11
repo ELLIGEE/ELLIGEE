@@ -39,7 +39,7 @@ All projects follow **WCAG 2.2 AA**, semantic HTML, ARIA labels and full keyboar
 ### 📫 Let’s connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdavidd/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://joao-guilherme-portfolio.netlify.app)
-joaoguilherme.@hotmail.com
+joaoguilherme.david@hotmail.com
 
 Open to full-time opportunities in Ireland from September 2026 (Stamp 1G eligible after MSc HCI at UCD).
 
