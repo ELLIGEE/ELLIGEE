@@ -1,136 +1,46 @@
-# 👩🏻‍💻 João Guilherme David
+# Hey, I’m João Guilherme 👋  
+**UX-minded Front-end & Full-stack Developer → Future HCI Specialist**
 
-**`Front-End Developer`**
+Applying for **MSc Human-Computer Interaction at University College Dublin (Class of 2027)**  
+Previously led the redesign of Simpress internal platform (2,000+ users, IBM partner) → 28% fewer bugs, 45% higher user satisfaction.
 
-|EN-ENGLISH|
+### 🔧 Tech Stack I use daily
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-Mid-level UX/UI Designer with 2.5 years of experience in UX Research and 1.5 years as a Junior Front-End Developer (React, TypeScript). Strong background in identifying user needs, translating insights into intuitive solutions, and developing accessible, responsive interfaces.
+All projects follow **WCAG 2.2 AA**, semantic HTML, ARIA labels and full keyboard navigation.
 
-Currently, I work at Simpress (an HP company in Brazil), performing continuous maintenance and front-end improvements for internal systems. Recently, I contributed to the redesign and structural revamp of the company’s internal e-commerce, helping deliver a more modern, efficient experience aligned with the new corporate Design System.
+### 🚀 Featured Projects
 
-I also have hands-on experience with freelance UI projects, designing interfaces based on best practices in usability, accessibility, and visual consistency. My technical background in front-end development ensures a smooth integration between design and implementation, resulting in cohesive and functional digital products.
+| Project                    | Description                                                      | Tech Stack                              | Live Demo                                  | Code                                           |
+|----------------------------|------------------------------------------------------------------|-----------------------------------------|--------------------------------------------|------------------------------------------------|
+| **TabNews Clone**          | Full-stack Reddit/HackerNews with SSR, auth and voting          | Next.js 14, TypeScript, Prisma, PostgreSQL, Tailwind | [tabnews-elligee.vercel.app](https://tabnews-elligee.vercel.app) | [→ repo](https://github.com/ELLIGEE/tabnews)          |
+| **GDASH Challenge**        | Modern financial admin dashboard (technical challenge)          | React, TypeScript, Recharts, Shadcn/ui  | [gdash-elligee.netlify.app](https://gdash-elligee.netlify.app)   | [→ repo](https://github.com/ELLIGEE/gdash-desafio)    |
+| **Notes App (Full-Stack)** | Real-time collaborative rich-text notes with dark mode          | Next.js, TypeScript, Lexical, Tailwind  | [notes-elligee.vercel.app](https://notes-elligee.vercel.app)     | [→ repo](https://github.com/ELLIGEE/notes-app)        |
+| **Simpress Internal Platform** | Enterprise redesign for 2,000+ employees (IBM partner)       | React, TypeScript, Material UI, Jest    | Case study on portfolio                    | Private                                        |
 
-I’m proactive, results-driven, and passionate about creating digital experiences that connect people and businesses. I’m seeking opportunities in client-focused tech companies or startups where I can apply and expand my skills in UX/UI Design, Front-End Development, Design Thinking, and Accessibility.
-📩 Available for remote or hybrid positions.
+→ Full case studies & more projects: [joao-guilherme-portfolio.netlify.app](https://joao-guilherme-portfolio.netlify.app)
 
-(PT-BR)
-Designer UX/UI Mid com 2,5 anos de experiência em UX Research e 1,5 ano como Desenvolvedor Front-End (React, TypeScript) Júnior. Experiência sólida em identificar necessidades do usuário, traduzir insights em soluções intuitivas e desenvolver interfaces acessíveis e responsivas.
+### 📚 Certifications
+- Google UX Design Professional Certificate
+- Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-Atualmente, atuo na Simpress (companhia HP no Brasil) realizando manutenções e melhorias contínuas no front-end dos sistemas internos. Recentemente, participei do redesign e da reestruturação do e-commerce interno da empresa, contribuindo para uma experiência mais moderna, eficiente e alinhada ao novo Design System corporativo.
+### 🌍 Languages
+- Portuguese → Native
+- English → Full professional proficiency (IELTS 7.5 target 2026)
 
-Também possuo vivência em projetos freelancers de UI, criando interfaces alinhadas às melhores práticas de usabilidade, acessibilidade e consistência visual. Minha experiência técnica como Front-End garante uma integração fluida entre design e desenvolvimento, assegurando produtos digitais coerentes e funcionais.
----
+### 📫 Let’s connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgdavidd/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://joao-guilherme-portfolio.netlify.app)
+joaoguilherme.dev@gmail.com
 
-### 🤖 Linguagens e Tecnologias
+Open to full-time opportunities in Ireland from September 2026 (Stamp 1G eligible after MSc HCI at UCD).
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+Thanks for visiting! 🚀
